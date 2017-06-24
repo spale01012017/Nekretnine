@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Agencija/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="750002bb52e8949f11b52ff747a2a671a6c1fbc4">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Agencija/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ff2ab12a9f61e0a11f8b07ae107577006051f284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Agencija/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Agencija/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8b127dd63bcb2dd1b7f09f260102ffda3b7d9569/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Agencija1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79bd7792d98440a276cba9ba27ccee80d4c45d2e">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Agencija1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_65f5476fe04b8bb61a63442d748fdae72921eb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Agencija1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Agencija1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57332757ec38bf68c2c33827db921c901171b774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Agencija/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-4.48_ebb448342cf679076a624eab574c2419a03ecf63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Agencija/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-4.48_61483365f9fee6e2bbf091fa9b654c72daa8fef7/classes.dex" />
+    </item>
+
+</items>
